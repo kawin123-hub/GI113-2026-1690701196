@@ -3,11 +3,6 @@
  * No. 13
  *Section: GI113
  */
-// Student ID: YOUR_STUDENT_ID
-// Name: YOUR_NAME
-// Section: YOUR_SECTION
-// No.: YOUR_NO
-
 using System;
 
 class Program
