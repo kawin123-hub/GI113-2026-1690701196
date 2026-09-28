@@ -1,7 +1,9 @@
-﻿/* Name: Kawinyarat Sakprapakorn
- * Student ID: 1690701196
- * No. 13
- *Section: GI113
+/*
+ * Student ID :Kawinyarat Sakprapakorn
+ * Name       :Lab05
+ * Section    :129B
+ * No.        :13
+ * Course     : GI113 Computer Programming (GI)
  */
  namespace Lap05
 {
