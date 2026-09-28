@@ -1,4 +1,11 @@
-﻿namespace Lab03
+/*
+ * Student ID :Kawinyarat Sakprapakorn
+ * Name       :Lab02
+ * Section    :129B
+ * No.        :N/A
+ * Course     : GI113 Computer Programming (GI)
+ */
+namespace Lab03
 {
 class Program
  {
