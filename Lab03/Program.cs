@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Student ID :Kawinyarat Sakprapakorn
  * Name       :Lab03
  * Section    :129B
@@ -43,9 +43,18 @@ class Program
          Console.WriteLine($"HP Percent: {hpPercent:F5}%");
 
          // Explicit casting attack power (float) -->> int
-         // Cast vs. Convert: Crit Multiplier 
+         float acttackPower = 25.5f;
+         int attackPowerInt = (int)attackPower;
+         Console.WriteLine(attackPowerInt);
 
+         // Cast vs. Convert: Crit Multiplier
+         critMultiplier = 2.5f;
+         
+         int critCast = (int)critMultiplier;
+         int critConvert = Convert.ToInt32(critMultiplier);
 
+         Console.WriteLine(critCast);
+         Console.WriteLine(critConvert);
     }
  }
 }
