@@ -1,6 +1,6 @@
 ﻿/* Name: Kawinyarat Sakprapakorn
  * Student ID: 1690701196
- * No. 13
+ * No. 8
  *Section: GI113
  */
 using System;
